@@ -29,7 +29,7 @@ Para o desenvolvimento do treinamento foi necessário a utilização das seguint
 
 ## Instalação
 
-Este treinamento pode ser executado de maneira direta, basta baixar o arquivo project.ipynb e carregalo em seu Colab Notebook.
+Este treinamento pode ser executado de maneira direta, basta baixar o arquivo Bayesian_Optimization.ipynb e carregalo em seu Colab Notebook.
 Caso deseje executar em máquina local realize a clonagem do repositório e as modificações necessárias.
 
  - Clonagem do repositório:
