@@ -34,7 +34,7 @@ Caso deseje executar em máquina local realize a clonagem do repositório e as m
 
  - Clonagem do repositório:
 ```shell
-$ git clone https://github.com/danilosl/Learning-PDS.git
+$ git clone https://github.com/danilosl/Bayesian-Optimization.git
 ```
 
 ## Links Úteis
